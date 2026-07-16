@@ -1,4 +1,4 @@
-src/                    (pasta inteira)
+src/
 package.json
 package-lock.json
 tsconfig.json

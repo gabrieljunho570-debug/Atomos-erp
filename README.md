@@ -1,0 +1,13 @@
+src/                    (pasta inteira)
+package.json
+package-lock.json
+tsconfig.json
+next.config.ts
+postcss.config.mjs
+eslint.config.mjs
+drizzle.config.ts
+drizzle.config.json
+.gitignore
+.env.example
+README.md
+DEPLOY.md
